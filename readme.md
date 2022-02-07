@@ -19,6 +19,6 @@ git clone https://github.com/jon-harper/clock-face clock-face
 
 Add the line:
 
-    [include clock-face/display_16x8.cfg]
+    [include clock-face/main.cfg]
 	
-to your `display.cfg` file somewhere.
+to your `main.cfg` file somewhere.
