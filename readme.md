@@ -21,4 +21,4 @@ Add the line:
 
     [include clock-face/main.cfg]
 	
-to your `main.cfg` file somewhere.
+to your `printer.cfg` file somewhere.
